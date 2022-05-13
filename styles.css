@@ -5,3 +5,7 @@
 .section-container {
   background-color: #ebebeb;
 }
+
+.section-container h1 {
+  text-transform: uppercase;
+}
