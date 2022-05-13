@@ -1,2 +1,3 @@
 # harry-potter
-Created with CodeSandbox
+
+This is a tribute page for the fictional character, Harry Potter. It is a project for the "Responsive Web Design" course on freeCodeCamp.
